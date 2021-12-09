@@ -1,0 +1,2 @@
+# Tags: latest-amd64
+FROM gcr.io/distroless/python3-debian9:latest-amd64
