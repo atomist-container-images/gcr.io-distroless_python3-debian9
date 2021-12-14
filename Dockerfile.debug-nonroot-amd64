@@ -1,2 +1,0 @@
-# Tags:  debug-nonroot-amd64
-FROM gcr.io/distroless/python3-debian9:debug-nonroot-amd64

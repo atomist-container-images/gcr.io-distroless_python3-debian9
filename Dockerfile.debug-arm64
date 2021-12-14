@@ -1,2 +1,0 @@
-# Tags:  debug-arm64
-FROM gcr.io/distroless/python3-debian9:debug-arm64
